@@ -1,0 +1,38 @@
+﻿  process_image.cpp
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\utils.h(20,31): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(26,66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(197,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(200,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(263,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(267,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(272,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(276,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(281,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(285,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(288,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(289,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(290,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(294,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(296,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(308,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(312,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(254,56): warning C4101: 'Xn': unreferenced local variable
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(254,64): warning C4101: 'Zn': unreferenced local variable
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(254,60): warning C4101: 'Yn': unreferenced local variable
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(352,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(354,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(366,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(370,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(381,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(382,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(383,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(387,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(391,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(396,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(400,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(405,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(409,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(341,56): warning C4101: 'Xn': unreferenced local variable
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(341,64): warning C4101: 'Zn': unreferenced local variable
+C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\process_image.cpp(341,60): warning C4101: 'Yn': unreferenced local variable
+  CS576_HM1.vcxproj -> C:\Users\24078\Desktop\576Cv\cse576_sp20_hw1-master\src\Debug\CS576_HM1.exe
